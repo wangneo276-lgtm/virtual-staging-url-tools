@@ -1,0 +1,23 @@
+{
+  "name": "virtual-staging-url-tools",
+  "version": "0.1.0",
+  "description": "Offline URL builder for Virtual Staging tool pages and rental-listing guides. Not an official SDK.",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://virtual-staging.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbwdadfg/virtual-staging-url-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bbwdadfg/virtual-staging-url-tools/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test.js"
+  }
+}

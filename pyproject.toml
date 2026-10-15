@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "virtual-staging-url-tools"
+version = "0.1.0"
+description = "Offline URL builder for Virtual Staging tool pages and rental-listing guides. Not an official SDK."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{ name = "bbwdadfg" }]
+
+[project.urls]
+Homepage = "https://virtual-staging.app/"
+Repository = "https://github.com/bbwdadfg/virtual-staging-url-tools"
+Issues = "https://github.com/bbwdadfg/virtual-staging-url-tools/issues"
+
+[tool.setuptools.packages.find]
+where = ["python"]
+include = ["virtual_staging_url_tools*"]

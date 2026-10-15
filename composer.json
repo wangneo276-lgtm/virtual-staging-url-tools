@@ -1,0 +1,20 @@
+{
+  "name": "bbwdadfg/virtual-staging-url-tools",
+  "description": "Offline URL builder for Virtual Staging tool pages and rental-listing guides. Not an official SDK.",
+  "type": "library",
+  "license": [
+    "MIT"
+  ],
+  "homepage": "https://virtual-staging.app/",
+  "support": {
+    "source": "https://github.com/bbwdadfg/virtual-staging-url-tools"
+  },
+  "autoload": {
+    "psr-4": {
+      "VirtualStagingUrlTools\\": "php/src/VirtualStagingUrlTools/"
+    }
+  },
+  "require": {
+    "php": ">=8.1"
+  }
+}
