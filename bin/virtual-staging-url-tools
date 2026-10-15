@@ -1,0 +1,2 @@
+#!/bin/sh
+printf '%s %s\n' 'Virtual Staging' 'https://virtual-staging.app/'

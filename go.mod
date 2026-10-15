@@ -1,3 +1,3 @@
-module github.com/bbwdadfg/virtual-staging-url-tools
+module github.com/wangneo276-lgtm/virtual-staging-url-tools
 
 go 1.22
